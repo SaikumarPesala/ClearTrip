@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="12" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="95805" started-at="2020-09-21T16:29:55 IST" finished-at="2020-09-21T16:31:31 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="95805" started-at="2020-09-21T16:29:55 IST" finished-at="2020-09-21T16:31:31 IST">
+      <class name="flightsTestCase.flightsInputs">
+        <test-method status="PASS" signature="b_userInputs()[pri:0, instance:flightsTestCase.flightsInputs@5e853265]" name="b_userInputs" duration-ms="17924" started-at="2020-09-21T16:29:55 IST" finished-at="2020-09-21T16:30:13 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_userInputs -->
+      </class> <!-- flightsTestCase.flightsInputs -->
+      <class name="flightsTestCase.roundTrip">
+        <test-method status="PASS" signature="a_URL()[pri:0, instance:flightsTestCase.roundTrip@67205a84]" name="a_URL" duration-ms="65087" started-at="2020-09-21T16:30:13 IST" finished-at="2020-09-21T16:31:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a_URL -->
+        <test-method status="PASS" signature="b_travelType()[pri:0, instance:flightsTestCase.roundTrip@67205a84]" name="b_travelType" duration-ms="611" started-at="2020-09-21T16:31:18 IST" finished-at="2020-09-21T16:31:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- b_travelType -->
+        <test-method status="PASS" signature="c_Source()[pri:0, instance:flightsTestCase.roundTrip@67205a84]" name="c_Source" duration-ms="2923" started-at="2020-09-21T16:31:19 IST" finished-at="2020-09-21T16:31:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- c_Source -->
+        <test-method status="PASS" signature="d_Destination()[pri:0, instance:flightsTestCase.roundTrip@67205a84]" name="d_Destination" duration-ms="3778" started-at="2020-09-21T16:31:22 IST" finished-at="2020-09-21T16:31:26 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- d_Destination -->
+        <test-method status="PASS" signature="e_DepartDate()[pri:0, instance:flightsTestCase.roundTrip@67205a84]" name="e_DepartDate" duration-ms="2955" started-at="2020-09-21T16:31:26 IST" finished-at="2020-09-21T16:31:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- e_DepartDate -->
+        <test-method status="PASS" signature="f_ReturnDate()[pri:0, instance:flightsTestCase.roundTrip@67205a84]" name="f_ReturnDate" duration-ms="484" started-at="2020-09-21T16:31:29 IST" finished-at="2020-09-21T16:31:29 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f_ReturnDate -->
+        <test-method status="PASS" signature="g_Adults()[pri:0, instance:flightsTestCase.roundTrip@67205a84]" name="g_Adults" duration-ms="580" started-at="2020-09-21T16:31:29 IST" finished-at="2020-09-21T16:31:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- g_Adults -->
+        <test-method status="PASS" signature="h_Childrens()[pri:0, instance:flightsTestCase.roundTrip@67205a84]" name="h_Childrens" duration-ms="402" started-at="2020-09-21T16:31:30 IST" finished-at="2020-09-21T16:31:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- h_Childrens -->
+        <test-method status="PASS" signature="i_Infants()[pri:0, instance:flightsTestCase.roundTrip@67205a84]" name="i_Infants" duration-ms="352" started-at="2020-09-21T16:31:30 IST" finished-at="2020-09-21T16:31:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- i_Infants -->
+        <test-method status="PASS" signature="j_Options()[pri:0, instance:flightsTestCase.roundTrip@67205a84]" name="j_Options" duration-ms="175" started-at="2020-09-21T16:31:30 IST" finished-at="2020-09-21T16:31:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- j_Options -->
+        <test-method status="PASS" signature="k_Class()[pri:0, instance:flightsTestCase.roundTrip@67205a84]" name="k_Class" duration-ms="291" started-at="2020-09-21T16:31:31 IST" finished-at="2020-09-21T16:31:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- k_Class -->
+      </class> <!-- flightsTestCase.roundTrip -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
